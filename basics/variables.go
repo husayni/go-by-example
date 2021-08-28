@@ -3,8 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var a = "initial"
-
+	const a = "initial"
 	var b string = "initial"
 	var n int = 3
 	fmt.Println(b)
